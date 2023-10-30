@@ -1,1 +1,2 @@
-Hello jenkins
+#!/bin/bash
+echo "Hello jenkins"
